@@ -1,0 +1,66 @@
+-v1.5 - mrdhobbs
+Updated to support Minecraft 1.20.4
+Added Andesite textures
+Added Basalt textures
+Added Brick textures
+Added Calcite textures
+Added Coarse Dirt textures
+Added Crimsom Nylium textures
+Added Diorite textures
+Added Rooted Dirt textures
+Added Grass Block textures
+Added Netherrack textures
+Added Podzol textures
+Added Stone Brick textures
+Added Warped Nylium textures
+Added Cobblestone textures
+Added Dirt textures
+Added Snow textures
+Added Sand and Red Sand textures
+
+-v1.4 - mrdhobbs
+Updated to support Minecraft 1.18
+Added Tinted Glass textures
+Corrected error in Blue Glass textures
+
+-v1.3 - mrdhobbs
+Updated to support Minecraft 1.17
+
+-v1.2 - mrdhobbs
+Changed all glass textures to new "clearer" default
+
+-v1.1 - mrdhobbs
+Updated to support Minecraft 1.15
+Added Bookshelf textures (from chris14dressel!)
+
+-v1 - mrdhobbs
+Added Light Blue Glass
+Added Light Gray Glass
+Added Lime Glass
+Added Magenta Glass
+Added Pink Glass
+Added Purple Glass
+
+-v.08 - mrdhobbs
+Added glass panes
+
+-v.07 - mrdhobbs
+Updated for Minecraft 1.13
+
+-v.06 - mrdhobbs
+Added Gray Glass
+
+-v.05 - mrdhobbs
+Added Yellow Glass
+
+-v.04 - mrdhobbs
+Updated for Minecraft 1.11
+
+-v.03 - mrdhobbs
+Updated for Minecraft 1.9
+
+-v.02b
+Added Orange Glass
+
+-v.01a
+First Release
